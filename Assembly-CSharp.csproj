@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{54886E71-339B-DE8B-CC5A-42CF3607503B}</ProjectGuid>
+    <ProjectGuid>{A2416A4B-F5F6-1EE3-265F-93B0FF46E38E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -46,8 +46,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\PlayerController.cs" />
-     <Compile Include="Assets\Scripts\SmoothCameraFollow.cs" />
+     <Compile Include="Assets\Scripts\Drones\PatrollingHealth\DronePatrollingHealth.cs" />
+     <Compile Include="Assets\Scripts\Drones\Statemachine\Attack\AttackPlayer.cs" />
+     <Compile Include="Assets\Scripts\Drones\Statemachine\DroneStateMachine.cs" />
+     <Compile Include="Assets\Scripts\Drones\Statemachine\Patrol\NavAgent.cs" />
+     <Compile Include="Assets\Scripts\Drones\StationaryHealth\DroneStationaryHealth.cs" />
+     <Compile Include="Assets\Scripts\Gun_Shooting\ShootController.cs" />
+     <Compile Include="Assets\Scripts\Player_Scripts\PlayerController.cs" />
+     <Compile Include="Assets\Scripts\Player_Scripts\PlayerHealth.cs" />
+     <Compile Include="Assets\Scripts\Timer\Timer.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
