@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{0BFF6F2D-F9FC-9D3F-D96F-B82C5331F898}</ProjectGuid>
+    <ProjectGuid>{74151AEF-8B5D-161B-BDE8-3F2F11C53115}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -46,29 +46,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\Drones\PatrollingHealth\DronePatrollingHealth.cs" />
-     <Compile Include="Assets\Scripts\Drones\Statemachine\Attack\AttackPlayer.cs" />
-     <Compile Include="Assets\Scripts\Drones\Statemachine\DroneStateMachine.cs" />
-     <Compile Include="Assets\Scripts\Drones\Statemachine\Patrol\NavAgent.cs" />
-     <Compile Include="Assets\Scripts\Drones\StationaryHealth\DroneHealth.cs" />
-     <Compile Include="Assets\Scripts\Gun_Shooting\BulletCollision.cs" />
-     <Compile Include="Assets\Scripts\Gun_Shooting\ShootController.cs" />
-     <Compile Include="Assets\Scripts\Interface\DestrucibleObj.cs" />
-     <Compile Include="Assets\Scripts\Interface\IDestructable.cs" />
-     <Compile Include="Assets\Scripts\Player_Scripts\PlayerController.cs" />
-     <Compile Include="Assets\Scripts\Player_Scripts\PlayerHealth.cs" />
-     <Compile Include="Assets\Scripts\Timer\Timer.cs" />
-     <Compile Include="Assets\True Explosions\System\Scripts\effects\PseudoVolumetricExplosion.cs" />
-     <Compile Include="Assets\True Explosions\System\Scripts\effects\exploderComponents\ExploderComponent.cs" />
-     <Compile Include="Assets\True Explosions\System\Scripts\effects\exploderComponents\LightComponent.cs" />
-     <Compile Include="Assets\True Explosions\System\Scripts\effects\exploderComponents\ParticleComponent.cs" />
-     <Compile Include="Assets\True Explosions\System\Scripts\effects\exploderComponents\PseudoVolumetricComponent.cs" />
-     <Compile Include="Assets\True Explosions\System\Scripts\effects\exploderComponents\VolumetricComponent.cs" />
-     <Compile Include="Assets\True Explosions\System\Scripts\effects\exploderComponents\VolumetricComponent2D.cs" />
-     <Compile Include="Assets\True Explosions\System\Scripts\exploders\Exploder.cs" />
-     <Compile Include="Assets\True Explosions\System\Scripts\exploders\Exploder2D.cs" />
-     <Compile Include="Assets\True Explosions\System\Scripts\exploders\SphereExploder.cs" />
-     <None Include="Assets\True Explosions\System\Shaders\SphereVolumetricExplosion.shader" />
+     <Compile Include="Assets\Scripts\DeathScript.cs" />
+     <Compile Include="Assets\Scripts\PlayerController.cs" />
+     <Compile Include="Assets\Scripts\ZombieMovement.cs" />
+     <Compile Include="Assets\Scripts\ZombieSpawner.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
