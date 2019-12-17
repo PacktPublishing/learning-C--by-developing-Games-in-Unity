@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flappy_Floppy_Example2", "Assembly-CSharp.csproj", "{172CC64B-6B30-2FBD-9C22-B15C595394AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{172CC64B-6B30-2FBD-9C22-B15C595394AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{172CC64B-6B30-2FBD-9C22-B15C595394AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{172CC64B-6B30-2FBD-9C22-B15C595394AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{172CC64B-6B30-2FBD-9C22-B15C595394AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

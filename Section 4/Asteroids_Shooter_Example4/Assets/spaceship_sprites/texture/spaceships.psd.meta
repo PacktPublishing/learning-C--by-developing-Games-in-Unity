@@ -1,0 +1,694 @@
+fileFormatVersion: 2
+guid: 8d18f6d2b73e89b4882fbf3bb5aedb4b
+timeCreated: 1484926429
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spaceships_0
+    21300002: spaceships_1
+    21300004: spaceships_2
+    21300006: spaceships_3
+    21300008: spaceships_4
+    21300010: spaceships_5
+    21300012: spaceships_6
+    21300014: spaceships_7
+    21300016: spaceships_8
+    21300018: spaceships_9
+    21300020: spaceships_10
+    21300022: spaceships_11
+    21300024: spaceships_12
+    21300026: spaceships_13
+    21300028: spaceships_14
+    21300030: spaceships_15
+    21300032: spaceships_16
+    21300034: spaceships_17
+    21300036: spaceships_18
+    21300038: spaceships_19
+    21300040: spaceships_20
+    21300042: spaceships_21
+    21300044: spaceships_22
+    21300046: spaceships_23
+    21300048: spaceships_24
+    21300050: spaceships_25
+    21300052: spaceships_26
+    21300054: spaceships_27
+    21300056: spaceships_28
+    21300058: spaceships_29
+    21300060: spaceships_30
+    21300062: spaceships_31
+    21300064: spaceships_32
+    21300066: spaceships_33
+    21300068: spaceships_34
+    21300070: spaceships_35
+    21300072: spaceships_36
+    21300074: spaceships_37
+    21300076: spaceships_38
+    21300078: spaceships_39
+    21300080: spaceships_40
+    21300082: spaceships_41
+    21300084: spaceships_42
+    21300086: spaceships_43
+    21300088: spaceships_44
+    21300090: spaceships_45
+    21300092: spaceships_46
+    21300094: spaceships_47
+    21300096: spaceships_48
+    21300098: spaceships_49
+    21300100: spaceships_50
+    21300102: spaceships_51
+    21300104: spaceships_52
+    21300106: spaceships_53
+    21300108: spaceships_54
+    21300110: spaceships_55
+    21300112: spaceships_56
+    21300114: spaceships_57
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spaceships_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 419
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 379
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 259
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 419
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 379
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 339
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 299
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 259
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 219
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 419
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 379
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 339
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 299
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 259
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 219
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_18
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 419
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 379
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 339
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 299
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_22
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 259
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_23
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 219
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 419
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 379
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 339
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 299
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 259
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 219
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 419
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_31
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 379
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 339
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_33
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 299
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 259
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_35
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 219
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 139
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 139
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_39
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 139
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_40
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 379
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 379
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_43
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 59
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 59
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 59
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_46
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 299
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_47
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 299
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_49
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_50
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_51
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_52
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_54
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 239
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_55
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 239
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_56
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 179
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceships_57
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 119
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

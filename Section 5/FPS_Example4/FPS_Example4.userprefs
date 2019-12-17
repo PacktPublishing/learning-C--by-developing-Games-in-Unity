@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Drones/StationaryHealth/DroneStationaryHealth.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Drones/StationaryHealth/DroneStationaryHealth.cs" Line="11" Column="35" />
+      <File FileName="Assets/Scripts/Drones/PatrollingHealth/DronePatrollingHealth.cs" Line="11" Column="35" />
+      <File FileName="Assets/Scripts/Player_Scripts/PlayerHealth.cs" Line="18" Column="95" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
